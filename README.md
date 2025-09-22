@@ -49,7 +49,7 @@ python benchmark.py
 
 This approach represents the performance ceiling for observation-based methods. The consistent 50.8% accuracy across multiple enhancement attempts suggests fundamental limits of passive analysis.
 
-**Proposed Next Phase:** Causal validation through counterfactual replay testing. By removing suspected agents and re-running scenarios, we expect to achieve 58-62% accuracy and establish causal relationships.
+**Proposed Next Phase:** Causal validation through counterfactual replay testing. By removing suspected agents and re-running scenarios, I expect to achieve 58-62% accuracy and establish causal relationships.
 
 ## Dataset
 
