@@ -55,6 +55,15 @@ This approach represents the performance ceiling for observation-based methods. 
 
 Research conducted using the Who&When Multi-Agent Dataset for Agent Failure Attribution, available through Hugging Face.
 
+Reference: 
+@article{zhang2025agent,
+  title={Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems},
+  author={Zhang, Shaokun and Yin, Ming and Zhang, Jieyu and Liu, Jiale and Han, Zhiguang and Zhang, Jingyang and Li, Beibin and Wang, Chi and Wang, Huazheng and Chen, Yiran and others},
+  journal={arXiv preprint arXiv:2505.00212},
+  year={2025}
+}
+
+
 **Source:** [Who&When Dataset]((https://huggingface.co/datasets/Kevin355/Who_and_When))
 
 ## License
