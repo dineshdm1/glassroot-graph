@@ -1,0 +1,6 @@
+secrets.py
+*.pyc
+pycache/
+.venv/
+.env
+who_when_data/
