@@ -48,7 +48,6 @@ git lfs install
 git clone https://huggingface.co/datasets/Kevin355/Who_and_When who_when_data
 ```
 
-The dataset is about 100MB so it's not included in this repository.
 
 ## What Each File Does
 
